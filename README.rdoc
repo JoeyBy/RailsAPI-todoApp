@@ -1,4 +1,4 @@
-Rails API to serve React/Node/Express Front end of Todo App. 
+Rails API to serve data to React/Node/Express Front end of Todo App. 
 
 Data flow:  
     Browser -> NGINX -> React/Express/Node(front end) -> API_NGINX -> Rails API -> API_NGINX -> React/Express/Node(front end) ->  NGINX -> Browser.   
